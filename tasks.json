@@ -1,0 +1,20 @@
+{
+    "0": {
+        "Period": 5,
+        "WCET": 2,
+        "Secure": 1,
+        "Observer": 0
+    },
+    "1": {
+        "Period": 8,
+        "WCET": 1,
+        "Secure": 1,
+        "Observer": 0
+    },
+    "2": {
+        "Period": 10,
+        "WCET": 2,
+        "Secure": 0,
+        "Observer": 1
+    }
+}
